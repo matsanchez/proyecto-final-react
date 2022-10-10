@@ -10,7 +10,7 @@ Los productos, las ordenes generadas, y autentificacion se almacenan en `Firebas
 
 ## Tecnologías utilizadas
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React](https://i.postimg.cc/KjXdKJnx/react.jpg) ![React Router](https://i.postimg.cc/yxF20cP9/routerdom.jpg) ![MUI](https://i.postimg.cc/59LccWV0/mui.jpg) ![Firebase](https://i.postimg.cc/SsYBNwYg/firebase.jpg)
 
 - [React JS](https://reactjs.org/)
 - [React Router Dom](https://reactrouter.com/)
