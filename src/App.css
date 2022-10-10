@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: baseline;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  text-decoration: none;
+}
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(238, 69,64,1) 0%,
+    rgba(199, 44,65,1) 15%,
+    rgba(128, 19,54,1) 30%,
+    rgba(81, 10,50,1) 45%,
+    rgba(45, 20,44,1) 100%
+  );
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 10rem;
+}
+a:hover{
+  color: grey;
+}
