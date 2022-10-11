@@ -17,7 +17,7 @@ Los productos, las ordenes generadas, y autentificacion se almacenan en `Firebas
 
 Puede visitarse el deploy del proyecto en [https://mscarpinteria-7b1a4.web.app/](https://mscarpinteria-7b1a4.web.app/)
 
-![GIF de muestra.](/public/gif-proyect "Vista del proyecto.")
+![GIF de muestra.](/public/gif-proyect.gif "Vista del proyecto.")
 
 ### Tecnologías utilizadas
 
