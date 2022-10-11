@@ -53,7 +53,7 @@ const ResetPassword = () => {
             <VerifiedIcon color="success" sx={{ width: 100, height: 100 }} />
             <Typography variant="subtitle1" className="mb-3">
               Pronto recibira un correo a su casilla <strong>{email}</strong> con un link para reestablecer la
-              contraseña, revise en correo deseado
+              contraseña, revise en correo no deseado.
             </Typography>
           </>
         ) : (
