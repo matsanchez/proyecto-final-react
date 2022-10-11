@@ -30,7 +30,7 @@ Puede visitarse el deploy del proyecto en [https://mscarpinteria-7b1a4.web.app/]
 
 ### Ejecutar el proyecto
 
-Para ejecutar el proyecto, el mismo puede descargarse como .zip o clonarlo con:
+Para ejecutar el proyecto, el mismo puede descargarse como .zip o git clone.
 
 Instalar las dependencias:
 
